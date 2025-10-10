@@ -2,6 +2,7 @@ body{
     color: rgb(250, 250, 250);
     background: rgb(0, 0, 0) ;
     margin: 0px;
+    font-family: "BBH Sans Bartle", sans-serif;
 }
   header{
    border-bottom: solid 2px white;
